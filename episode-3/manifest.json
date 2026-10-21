@@ -1,0 +1,831 @@
+{
+  "episode": 3,
+  "title": "湯裡的留白",
+  "direction": "top-to-bottom",
+  "panelCount": 60,
+  "complete": true,
+  "segments": [
+    {
+      "number": 1,
+      "firstPanel": 1,
+      "lastPanel": 3,
+      "width": 724,
+      "height": 2172,
+      "approved": true,
+      "sourceSha256": "cdff4cee8ed4f84661e2b9ff9120f7dfc10469517a7f346ce7edb1d96da5d121",
+      "src": "assets/segment-01.webp",
+      "mobileSrc": "assets/segment-01-560.webp"
+    },
+    {
+      "number": 2,
+      "firstPanel": 4,
+      "lastPanel": 6,
+      "width": 724,
+      "height": 2172,
+      "approved": true,
+      "sourceSha256": "4e1f40b28fe7d3ac58dfd128dc5e3e62c7cb523be07eb6131da1c7d9e11e01af",
+      "src": "assets/segment-02.webp",
+      "mobileSrc": "assets/segment-02-560.webp"
+    },
+    {
+      "number": 3,
+      "firstPanel": 7,
+      "lastPanel": 9,
+      "width": 724,
+      "height": 2171,
+      "approved": true,
+      "sourceSha256": "34647493ba3539fc5b16bd3b2f0415c9dc05a904f26a3b32c7a66fbd4d86f7e6",
+      "src": "assets/segment-03.webp",
+      "mobileSrc": "assets/segment-03-560.webp"
+    },
+    {
+      "number": 4,
+      "firstPanel": 10,
+      "lastPanel": 12,
+      "width": 726,
+      "height": 2167,
+      "approved": true,
+      "sourceSha256": "67646f2dbe02788461498bb7e9d2001ff4f8007c004408b7faf0355462b8bd32",
+      "src": "assets/segment-04.webp",
+      "mobileSrc": "assets/segment-04-560.webp"
+    },
+    {
+      "number": 5,
+      "firstPanel": 13,
+      "lastPanel": 15,
+      "width": 724,
+      "height": 2172,
+      "approved": true,
+      "sourceSha256": "3ba3fe29e4c4c7b02fe0229c51b1c3ec3f92f3483f7c924f886f5357bb197b7c",
+      "src": "assets/segment-05.webp",
+      "mobileSrc": "assets/segment-05-560.webp"
+    },
+    {
+      "number": 6,
+      "firstPanel": 16,
+      "lastPanel": 18,
+      "width": 724,
+      "height": 2172,
+      "approved": true,
+      "sourceSha256": "0ba6c4af8a9195d52af4e17688fa493e991a5b0e5d49ad558fc9870a32b22781",
+      "src": "assets/segment-06.webp",
+      "mobileSrc": "assets/segment-06-560.webp"
+    },
+    {
+      "number": 7,
+      "firstPanel": 19,
+      "lastPanel": 21,
+      "width": 726,
+      "height": 2167,
+      "approved": true,
+      "sourceSha256": "73f83640e2d124c9c57aea754863f5c9fbd89a4085bffee5cc25878079bef737",
+      "src": "assets/segment-07.webp",
+      "mobileSrc": "assets/segment-07-560.webp"
+    },
+    {
+      "number": 8,
+      "firstPanel": 22,
+      "lastPanel": 24,
+      "width": 724,
+      "height": 2172,
+      "approved": true,
+      "sourceSha256": "16b014c616194a7b2183f0a385c1331468d0e9ef91f8897e7fdf017270583a81",
+      "src": "assets/segment-08.webp",
+      "mobileSrc": "assets/segment-08-560.webp"
+    },
+    {
+      "number": 9,
+      "firstPanel": 25,
+      "lastPanel": 27,
+      "width": 724,
+      "height": 2172,
+      "approved": true,
+      "sourceSha256": "50b7f80e978ceb1d900cbad0be84d0dc08ccbd1e5194fcaca3bc84b9a74ff704",
+      "src": "assets/segment-09.webp",
+      "mobileSrc": "assets/segment-09-560.webp"
+    },
+    {
+      "number": 10,
+      "firstPanel": 28,
+      "lastPanel": 30,
+      "width": 724,
+      "height": 2172,
+      "approved": true,
+      "sourceSha256": "9eee92723e9a4243963fe10679b9abda1566cf873627232f6f1c0ee5fce201a0",
+      "src": "assets/segment-10.webp",
+      "mobileSrc": "assets/segment-10-560.webp"
+    },
+    {
+      "number": 11,
+      "firstPanel": 31,
+      "lastPanel": 33,
+      "width": 724,
+      "height": 2172,
+      "approved": true,
+      "sourceSha256": "eff2c2fb1f4da24ec5097673af93e28ae14705b16f87013f11c00bccdb98431d",
+      "src": "assets/segment-11.webp",
+      "mobileSrc": "assets/segment-11-560.webp"
+    },
+    {
+      "number": 12,
+      "firstPanel": 34,
+      "lastPanel": 36,
+      "width": 727,
+      "height": 2163,
+      "approved": true,
+      "sourceSha256": "2d6369526f9ac62700a125eeaeb956c5d42fd1b5f609a53312658f5998f72c84",
+      "src": "assets/segment-12.webp",
+      "mobileSrc": "assets/segment-12-560.webp"
+    },
+    {
+      "number": 13,
+      "firstPanel": 37,
+      "lastPanel": 39,
+      "width": 724,
+      "height": 2172,
+      "approved": true,
+      "sourceSha256": "8f109ea01682847cef81117f1ff24aacc211174c25f8d0b0ebb9363421f32300",
+      "src": "assets/segment-13.webp",
+      "mobileSrc": "assets/segment-13-560.webp"
+    },
+    {
+      "number": 14,
+      "firstPanel": 40,
+      "lastPanel": 42,
+      "width": 724,
+      "height": 2172,
+      "approved": true,
+      "sourceSha256": "954db3f37c115cc5630b0dd1b08c26f975cac71f703eefc1b1aa98f60088ee4f",
+      "src": "assets/segment-14.webp",
+      "mobileSrc": "assets/segment-14-560.webp"
+    },
+    {
+      "number": 15,
+      "firstPanel": 43,
+      "lastPanel": 45,
+      "width": 724,
+      "height": 2172,
+      "approved": true,
+      "sourceSha256": "d21d24e013cd240db1ffb3aa35d51daaf6373e2c64ca0523e2732c4311c4f0cc",
+      "src": "assets/segment-15.webp",
+      "mobileSrc": "assets/segment-15-560.webp"
+    },
+    {
+      "number": 16,
+      "firstPanel": 46,
+      "lastPanel": 48,
+      "width": 727,
+      "height": 2164,
+      "approved": true,
+      "sourceSha256": "71f3f55ec432b35cf166f1b4869b03ed7fd93c0be86f09241bf1b4540d3f15c6",
+      "src": "assets/segment-16.webp",
+      "mobileSrc": "assets/segment-16-560.webp"
+    },
+    {
+      "number": 17,
+      "firstPanel": 49,
+      "lastPanel": 51,
+      "width": 725,
+      "height": 2168,
+      "approved": true,
+      "sourceSha256": "312506da81d7053e4d4fbd13281f673b3a463c21b8d34138ddb050554cd35cea",
+      "src": "assets/segment-17.webp",
+      "mobileSrc": "assets/segment-17-560.webp"
+    },
+    {
+      "number": 18,
+      "firstPanel": 52,
+      "lastPanel": 54,
+      "width": 724,
+      "height": 2172,
+      "approved": true,
+      "sourceSha256": "01e1d58750cb90a103ac38349047ed6ec0b76a04d1087d0f1a6d81f596a7b0fc",
+      "src": "assets/segment-18.webp",
+      "mobileSrc": "assets/segment-18-560.webp"
+    },
+    {
+      "number": 19,
+      "firstPanel": 55,
+      "lastPanel": 57,
+      "width": 724,
+      "height": 2172,
+      "approved": true,
+      "sourceSha256": "0bf2c744ef86ad4eae41a13a46b20f67a56044ad8ad056bee4ce4adc977cff50",
+      "src": "assets/segment-19.webp",
+      "mobileSrc": "assets/segment-19-560.webp"
+    },
+    {
+      "number": 20,
+      "firstPanel": 58,
+      "lastPanel": 60,
+      "width": 724,
+      "height": 2172,
+      "approved": true,
+      "sourceSha256": "e1258edbf7db2b812e91d1fd8a2469a035fa6f33888509273b9971f961089bd5",
+      "src": "assets/segment-20.webp",
+      "mobileSrc": "assets/segment-20-560.webp"
+    }
+  ],
+  "panels": [
+    {
+      "number": 1,
+      "segment": 1,
+      "top": 0,
+      "bottom": 765,
+      "height": 765,
+      "gapV": 0.2,
+      "title": "老街遠景",
+      "approved": true
+    },
+    {
+      "number": 2,
+      "segment": 1,
+      "top": 844,
+      "bottom": 1380,
+      "height": 536,
+      "gapV": 0.2,
+      "title": "手機特寫",
+      "approved": true
+    },
+    {
+      "number": 3,
+      "segment": 1,
+      "top": 1451,
+      "bottom": 2172,
+      "height": 721,
+      "gapV": 0.2,
+      "title": "門口中景",
+      "approved": true
+    },
+    {
+      "number": 4,
+      "segment": 2,
+      "top": 0,
+      "bottom": 788,
+      "height": 788,
+      "gapV": 0.2,
+      "title": "湯碗俯視",
+      "approved": true
+    },
+    {
+      "number": 5,
+      "segment": 2,
+      "top": 858,
+      "bottom": 1357,
+      "height": 499,
+      "gapV": 0.45,
+      "title": "阿晴近景",
+      "approved": true
+    },
+    {
+      "number": 6,
+      "segment": 2,
+      "top": 1426,
+      "bottom": 2172,
+      "height": 746,
+      "gapV": 0.2,
+      "title": "試味近景",
+      "approved": true
+    },
+    {
+      "number": 7,
+      "segment": 3,
+      "top": 0,
+      "bottom": 684,
+      "height": 684,
+      "gapV": 0.2,
+      "title": "阿岳近景",
+      "approved": true
+    },
+    {
+      "number": 8,
+      "segment": 3,
+      "top": 743,
+      "bottom": 1541,
+      "height": 798,
+      "gapV": 0.2,
+      "title": "三人與工作檯",
+      "approved": true
+    },
+    {
+      "number": 9,
+      "segment": 3,
+      "top": 1577,
+      "bottom": 2171,
+      "height": 594,
+      "gapV": 0.2,
+      "title": "湯勺特寫",
+      "approved": true
+    },
+    {
+      "number": 10,
+      "segment": 4,
+      "top": 0,
+      "bottom": 794,
+      "height": 794,
+      "gapV": 0.3,
+      "title": "小揚打開筆記",
+      "approved": true
+    },
+    {
+      "number": 11,
+      "segment": 4,
+      "top": 854,
+      "bottom": 1496,
+      "height": 642,
+      "gapV": 0.2,
+      "title": "舊筆記特寫",
+      "approved": true
+    },
+    {
+      "number": 12,
+      "segment": 4,
+      "top": 1553,
+      "bottom": 2167,
+      "height": 614,
+      "gapV": 0.2,
+      "title": "阿晴拿手機",
+      "approved": true
+    },
+    {
+      "number": 13,
+      "segment": 5,
+      "top": 0,
+      "bottom": 748,
+      "height": 748,
+      "gapV": 0.2,
+      "title": "志伯在雜貨店",
+      "approved": true
+    },
+    {
+      "number": 14,
+      "segment": 5,
+      "top": 799,
+      "bottom": 1395,
+      "height": 596,
+      "gapV": 0.2,
+      "title": "阿晴半身",
+      "approved": true
+    },
+    {
+      "number": 15,
+      "segment": 5,
+      "top": 1420,
+      "bottom": 2172,
+      "height": 752,
+      "gapV": 0.35,
+      "title": "三人中景",
+      "approved": true
+    },
+    {
+      "number": 16,
+      "segment": 6,
+      "top": 0,
+      "bottom": 722,
+      "height": 722,
+      "gapV": 0.2,
+      "title": "試作現場回述",
+      "approved": true
+    },
+    {
+      "number": 17,
+      "segment": 6,
+      "top": 762,
+      "bottom": 1380,
+      "height": 618,
+      "gapV": 0.2,
+      "title": "兩種湯的概念對照",
+      "approved": true
+    },
+    {
+      "number": 18,
+      "segment": 6,
+      "top": 1425,
+      "bottom": 2172,
+      "height": 747,
+      "gapV": 0.2,
+      "title": "冬瓜切面近景",
+      "approved": true
+    },
+    {
+      "number": 19,
+      "segment": 7,
+      "top": 0,
+      "bottom": 773,
+      "height": 773,
+      "gapV": 0.2,
+      "title": "阿晴改寫記錄",
+      "approved": true
+    },
+    {
+      "number": 20,
+      "segment": 7,
+      "top": 829,
+      "bottom": 1512,
+      "height": 683,
+      "gapV": 0.18,
+      "title": "開工中景",
+      "approved": true
+    },
+    {
+      "number": 21,
+      "segment": 7,
+      "top": 1560,
+      "bottom": 2167,
+      "height": 607,
+      "gapV": 0.2,
+      "title": "備料檯俯視",
+      "approved": true
+    },
+    {
+      "number": 22,
+      "segment": 8,
+      "top": 0,
+      "bottom": 719,
+      "height": 719,
+      "gapV": 0.2,
+      "title": "汆燙鍋近景",
+      "approved": true
+    },
+    {
+      "number": 23,
+      "segment": 8,
+      "top": 767,
+      "bottom": 1388,
+      "height": 621,
+      "gapV": 0.2,
+      "title": "清理與換鍋",
+      "approved": true
+    },
+    {
+      "number": 24,
+      "segment": 8,
+      "top": 1428,
+      "bottom": 2172,
+      "height": 744,
+      "gapV": 0.5,
+      "title": "重新入鍋近景",
+      "approved": true
+    },
+    {
+      "number": 25,
+      "segment": 9,
+      "top": 0,
+      "bottom": 874,
+      "height": 874,
+      "gapV": 0.4,
+      "title": "湯面動勢大格",
+      "approved": true
+    },
+    {
+      "number": 26,
+      "segment": 9,
+      "top": 923,
+      "bottom": 1503,
+      "height": 580,
+      "gapV": 0.18,
+      "title": "時鐘與窗影",
+      "approved": true
+    },
+    {
+      "number": 27,
+      "segment": 9,
+      "top": 1547,
+      "bottom": 2172,
+      "height": 625,
+      "gapV": 0.2,
+      "title": "掠去浮油特寫",
+      "approved": true
+    },
+    {
+      "number": 28,
+      "segment": 10,
+      "top": 0,
+      "bottom": 769,
+      "height": 769,
+      "gapV": 0.2,
+      "title": "小揚與阿晴試味",
+      "approved": true
+    },
+    {
+      "number": 29,
+      "segment": 10,
+      "top": 837,
+      "bottom": 1446,
+      "height": 609,
+      "gapV": 0.2,
+      "title": "門簾中景",
+      "approved": true
+    },
+    {
+      "number": 30,
+      "segment": 10,
+      "top": 1492,
+      "bottom": 2172,
+      "height": 680,
+      "gapV": 0.35,
+      "title": "客席與廚房對望",
+      "approved": true
+    },
+    {
+      "number": 31,
+      "segment": 11,
+      "top": 0,
+      "bottom": 696,
+      "height": 696,
+      "gapV": 0.2,
+      "title": "切瓜手部近景",
+      "approved": true
+    },
+    {
+      "number": 32,
+      "segment": 11,
+      "top": 753,
+      "bottom": 1469,
+      "height": 716,
+      "gapV": 0.2,
+      "title": "瓜片入鍋斜角",
+      "approved": true
+    },
+    {
+      "number": 33,
+      "segment": 11,
+      "top": 1529,
+      "bottom": 2172,
+      "height": 643,
+      "gapV": 0.2,
+      "title": "觀察熟度近景",
+      "approved": true
+    },
+    {
+      "number": 34,
+      "segment": 12,
+      "top": 0,
+      "bottom": 522,
+      "height": 522,
+      "gapV": 0.5,
+      "title": "湯匙托瓜極近景",
+      "approved": true
+    },
+    {
+      "number": 35,
+      "segment": 12,
+      "top": 583,
+      "bottom": 1612,
+      "height": 1029,
+      "gapV": 0.3,
+      "title": "主觀料理意象",
+      "approved": true
+    },
+    {
+      "number": 36,
+      "segment": 12,
+      "top": 1648,
+      "bottom": 2163,
+      "height": 515,
+      "gapV": 0.2,
+      "title": "鹽罐與記錄紙",
+      "approved": true
+    },
+    {
+      "number": 37,
+      "segment": 13,
+      "top": 0,
+      "bottom": 719,
+      "height": 719,
+      "gapV": 0.24,
+      "title": "小揚近景",
+      "approved": true
+    },
+    {
+      "number": 38,
+      "segment": 13,
+      "top": 790,
+      "bottom": 1464,
+      "height": 674,
+      "gapV": 0.4,
+      "title": "阿晴獨立試味大格",
+      "approved": true
+    },
+    {
+      "number": 39,
+      "segment": 13,
+      "top": 1526,
+      "bottom": 2172,
+      "height": 646,
+      "gapV": 0.24,
+      "title": "把鹽罐推回",
+      "approved": true
+    },
+    {
+      "number": 40,
+      "segment": 14,
+      "top": 0,
+      "bottom": 701,
+      "height": 701,
+      "gapV": 0.55,
+      "title": "阿晴端碗至出餐口",
+      "approved": true
+    },
+    {
+      "number": 41,
+      "segment": 14,
+      "top": 748,
+      "bottom": 1542,
+      "height": 794,
+      "gapV": 0.24,
+      "title": "成品英雄特寫",
+      "approved": true
+    },
+    {
+      "number": 42,
+      "segment": 14,
+      "top": 1588,
+      "bottom": 2172,
+      "height": 584,
+      "gapV": 0.38,
+      "title": "志伯試湯近景",
+      "approved": true
+    },
+    {
+      "number": 43,
+      "segment": 15,
+      "top": 0,
+      "bottom": 612,
+      "height": 612,
+      "gapV": 0.22,
+      "title": "阿晴反應近景",
+      "approved": true
+    },
+    {
+      "number": 44,
+      "segment": 15,
+      "top": 671,
+      "bottom": 1309,
+      "height": 638,
+      "gapV": 0.32,
+      "title": "瓜片與父親笑容",
+      "approved": true
+    },
+    {
+      "number": 45,
+      "segment": 15,
+      "top": 1369,
+      "bottom": 2172,
+      "height": 803,
+      "gapV": 0.5,
+      "title": "父女雙人中景",
+      "approved": true
+    },
+    {
+      "number": 46,
+      "segment": 16,
+      "top": 0,
+      "bottom": 549,
+      "height": 549,
+      "gapV": 0.2,
+      "title": "阿晴回答",
+      "approved": true
+    },
+    {
+      "number": 47,
+      "segment": 16,
+      "top": 598,
+      "bottom": 1097,
+      "height": 499,
+      "gapV": 0.2,
+      "title": "志伯指向舊記帳本",
+      "approved": true
+    },
+    {
+      "number": 48,
+      "segment": 16,
+      "top": 1111,
+      "bottom": 2164,
+      "height": 1053,
+      "gapV": 0.35,
+      "title": "無框主觀味覺意象",
+      "approved": true
+    },
+    {
+      "number": 49,
+      "segment": 17,
+      "top": 0,
+      "bottom": 657,
+      "height": 657,
+      "gapV": 0.2,
+      "title": "試營業門口",
+      "approved": true
+    },
+    {
+      "number": 50,
+      "segment": 17,
+      "top": 710,
+      "bottom": 1433,
+      "height": 723,
+      "gapV": 0.2,
+      "title": "阿晴與小揚",
+      "approved": true
+    },
+    {
+      "number": 51,
+      "segment": 17,
+      "top": 1491,
+      "bottom": 2168,
+      "height": 677,
+      "gapV": 0.2,
+      "title": "出餐手部近景",
+      "approved": true
+    },
+    {
+      "number": 52,
+      "segment": 18,
+      "top": 0,
+      "bottom": 724,
+      "height": 724,
+      "gapV": 0.2,
+      "title": "熟客試吃",
+      "approved": true
+    },
+    {
+      "number": 53,
+      "segment": 18,
+      "top": 797,
+      "bottom": 1405,
+      "height": 608,
+      "gapV": 0.2,
+      "title": "熟客與阿晴",
+      "approved": true
+    },
+    {
+      "number": 54,
+      "segment": 18,
+      "top": 1445,
+      "bottom": 2172,
+      "height": 727,
+      "gapV": 0.2,
+      "title": "小揚與阿岳側景",
+      "approved": true
+    },
+    {
+      "number": 55,
+      "segment": 19,
+      "top": 0,
+      "bottom": 971,
+      "height": 971,
+      "gapV": 0.4,
+      "title": "營業中的小店縱深大格",
+      "approved": true
+    },
+    {
+      "number": 56,
+      "segment": 19,
+      "top": 1036,
+      "bottom": 1618,
+      "height": 582,
+      "gapV": 0.2,
+      "title": "晚餐後工作檯",
+      "approved": true
+    },
+    {
+      "number": 57,
+      "segment": 19,
+      "top": 1670,
+      "bottom": 2172,
+      "height": 502,
+      "gapV": 0.2,
+      "title": "兩本記錄並排",
+      "approved": true
+    },
+    {
+      "number": 58,
+      "segment": 20,
+      "top": 0,
+      "bottom": 553,
+      "height": 553,
+      "gapV": 0.24,
+      "title": "阿晴落筆特寫",
+      "approved": true
+    },
+    {
+      "number": 59,
+      "segment": 20,
+      "top": 576,
+      "bottom": 1044,
+      "height": 468,
+      "gapV": 0.55,
+      "title": "父女小笑點",
+      "approved": true
+    },
+    {
+      "number": 60,
+      "segment": 20,
+      "top": 1083,
+      "bottom": 2172,
+      "height": 1089,
+      "gapV": 0.25,
+      "title": "門外寬幅結尾",
+      "approved": true
+    }
+  ]
+}
