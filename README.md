@@ -7,4 +7,6 @@
 - [第二集：脆響之前](https://zuestrd20.github.io/xiaoyang-cooking-manga/episode-2/)
 - [第三集：湯裡的留白](https://zuestrd20.github.io/xiaoyang-cooking-manga/episode-3/)
 
+第三集依螢幕高度保留逐格留白，提供閱讀位置選擇與完整劇情文字版。
+
 所有人物與事件虛構，AI 生成圖像。漫畫不是完整食譜。
